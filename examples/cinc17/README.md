@@ -1,9 +1,9 @@
 
-#classifyResult: integer value where
-#                     A = AF
-#                     N = normal rhythm
-#                     O = other rhythm
-#                     ~ = noisy recording (poor signal quality)
+## classifyResult: integer value where
+- A = AF
+- N = normal rhythm
+- O = other rhythm
+- ~ = noisy recording (poor signal quality)
 
 # The Physionet 2017 Challenge 
 
