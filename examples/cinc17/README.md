@@ -5,7 +5,7 @@
 - O = other rhythm
 - ~ = noisy recording (poor signal quality)
 
-# The Physionet 2017 Challenge 
+## The Physionet 2017 Challenge 
 
 Before following this guide first follow the setup instructions in the top-level
 [README](../../README.md).
