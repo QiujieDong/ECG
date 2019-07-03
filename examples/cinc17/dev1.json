@@ -1,0 +1,3 @@
+{"ecg": "/home/gpu/Project/ECG/ecg-master/examples/cinc17/data/training2017/A00592.mat", "labels": ["A", "A", "A", "A", "A", "A", "A", "A", "A", "A", "A"]}
+{"ecg": "/home/gpu/Project/ECG/ecg-master/examples/cinc17/data/training2017/A07219.mat", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"ecg": "/home/gpu/Project/ECG/ecg-master/examples/cinc17/data/training2017/A04401.mat", "labels": ["N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N"]}
