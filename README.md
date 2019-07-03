@@ -66,4 +66,5 @@ python ecg/predict.py <dataset>.json <model>.hdf5
 replacing `<dataset>` with an actual path to the dataset and `<model>` with the
 path to the model.
 
-## 参考：[[StanfordML Group]](https://www.nature.com/articles/s41591-018-0268-3)
+## 参考：
+[[StanfordML Group]](https://www.nature.com/articles/s41591-018-0268-3)
