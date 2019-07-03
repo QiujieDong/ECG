@@ -1,12 +1,8 @@
-# ECG
-ECG classification
+# ECG classification
 
 - 心电图进行疾病预测分类，共分为四类：AF，Normal, Noise, Others.
 - 使用DNN网络，实现可以直接输出预测疾病名称与其可信度。
 - 此版代码暂未经优化。
-
-- 参考：[[StanfordML Group]](https://www.nature.com/articles/s41591-018-0268-3)
-
 
 ## Environment
 
@@ -70,4 +66,4 @@ python ecg/predict.py <dataset>.json <model>.hdf5
 replacing `<dataset>` with an actual path to the dataset and `<model>` with the
 path to the model.
 
-
+## 参考：[[StanfordML Group]](https://www.nature.com/articles/s41591-018-0268-3)
